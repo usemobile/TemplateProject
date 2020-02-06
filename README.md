@@ -25,6 +25,12 @@ Example:
 ProjectTemplate requires iOS 10.0 or above, Xcode 10.0 or above and is compatibile with Swift 4/5.
 <br>
 
+## ✨ Features
+List here the features - what your lib has to offer 
+* Feature 01
+* Feature 02
+* Feature 03
+
 ## 📲 Installation
 ### Installation Guide 1
 Add here an installation guide.
@@ -34,8 +40,29 @@ Add here an installation guide.
 
 ## 🚀 Usage
 
+### Quickstart
+Maybe it's good to have some quickstart code. A code that that is ready to use right away (just copy and paste inside a new project)
+
+```javascript
+function main() {
+    ...
+  const myLib = new myLib();
+  myLib.coolFeature();
+}
+```
+
 ### The Basics
 Here you can inform how to use the application basics (optional).
+
+### Examples
+Maybe you can list some code examples for each feature (optional).
+
+```javascript
+function main() {
+    ...
+  mylib.coolFeature();
+}
+```
 
 ## 👨🏻‍💻 Author
 - Created by [Tulio Parreiras](https://www.linkedin.com/in/tulio-de-oliveira-parreiras-239237a9/)
