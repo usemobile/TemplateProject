@@ -17,6 +17,19 @@
 Breef introduction about the application, it's purpose and how it work.
 </p>
 
+## Table of contents
+* [Requirements](#requirements)
+* [Features](#features)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Author](#author)
+* [Contributing](#contributing)
+* [Stack of used technologies](#stack)
+* [Prerequisites](#prerequisites)
+* [License](#license)
+
+Stack de tecnologias utilizadas
+
 
 ## 📋 Requirements
 Project requirements (os, language version and any other relevant).
@@ -71,16 +84,16 @@ function main() {
 ## ❤️ Contributing
 Bug reports and pull requests are welcome on GitHub
 
-## Stack de tecnologias utilizadas
-- Banco de dados MySQL 5.7
-- Frontend web desacoplado:
+## Stack of used technologies
+- MySQL 5.7 database
+- Decoupled web frontend:
   - React.js
   - Backbone.js
   - Webpack
 
 
-## Pré-requisitos
- - Ubuntu 18.04 ou superior
+## Prerequisites
+ - Ubuntu 18.04 or higher
  - imagic
 
 
