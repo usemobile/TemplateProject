@@ -71,5 +71,18 @@ function main() {
 ## ❤️ Contributing
 Bug reports and pull requests are welcome on GitHub
 
+## Stack de tecnologias utilizadas
+- Banco de dados MySQL 5.7
+- Frontend web desacoplado:
+  - React.js
+  - Backbone.js
+  - Webpack
+
+
+## Pré-requisitos
+ - Ubuntu 18.04 ou superior
+ - imagic
+
+
 ## 👮🏻‍♂️ License
 The project is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
